@@ -1,7 +1,9 @@
+
 body{
   background-image: url("Fotos/Olas.jpeg");
-  width: 1500px;
+  width: 900px;
   height: 1200px;
+  padding:50px;
 }
 
 header {
@@ -27,7 +29,7 @@ float: left;
   background-color: rgba(76, 83, 250, 0.6);
   border-style: solid;
   height: 700px;
-  width: 400px;
+  width: 463px;
   float: left;
 
 }
@@ -43,8 +45,6 @@ float: left;
 footer{
   color: white;
   border-style: solid;
-  height: 150px;
-  width: 970px;
   float: left;
 }
 
@@ -68,11 +68,12 @@ tr:nth-child(even){
 
 .versiculos{
   text-align: center;
-  width: 323px;
+  width: 290px;
   height: 150px;
   color:white;
   background-color: rgba(88, 0, 215, 0.75);
   border-style: solid;
+  border-spacing:  10px ;
   clear: right;
   float: left;
 
